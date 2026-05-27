@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using CadastroSeguroAPI.Data;
+using RegistroSeguroAPI.Data;
 using CadastroSeguroAPI.DTOs;
 using CadastroSeguroAPI.Models;
 
